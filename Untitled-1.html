@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App de Música</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        .song-list {
+            list-style: none;
+            padding: 0;
+        }
+        .song-list li {
+            padding: 10px;
+            margin: 5px 0;
+            background-color: #ddd;
+            cursor: pointer;
+        }
+        .song-list li:hover {
+            background-color: #bbb;
+        }
+        audio {
+            width: 100%;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>App de Música</h1>
+    </header>
+    <main>
+        <h2>Lista de Canciones</h2>
+        <ul class="song-list">
+            <li data-src="song1.mp3">Canción 1</li>
+            <li data-src="song2.mp3">Canción 2</li>
+            <li data-src="song3.mp3">Canción 3</li>
+        </ul>
+        <audio id="audio-player" controls>
+            <source src="" type="audio/mpeg">
+            Tu navegador no soporta el reproductor de audio.
+        </audio>
+    </main>
+    <script>
+        const songList = document.querySelectorAll('.song-list li');
+        const audioPlayer = document.getElementById('audio-player');
+
+        songList.forEach(song => {
+            song.addEventListener('click', () => {
+                const songSrc = song.getAttribute('data-src');
+                audioPlayer.src = songSrc;
+                audioPlayer.play();
+            });
+        });
+    </script>
+</body>
+</html>
